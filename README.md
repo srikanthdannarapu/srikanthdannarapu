@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning Angular 8
 
 ### Connect with me:
-- 📫 How to reach me: [<img align="left" alt="srikanth-dannarapu-98a010165 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+- 📫 How to reach me: [<img align="left" alt="https://www.linkedin.com/in/srikanth-dannarapu-98a010165 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
