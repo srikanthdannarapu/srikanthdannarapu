@@ -31,3 +31,18 @@ I am Senior Java Developer over 9 years of experience in developing efficient, s
 ## 📫 How to reach me:
 |<a href="https://www.linkedin.com/in/srikanth-dannarapu-98a010165/"><img align="center" alt="Srikanth's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>|
 
+<a href="https://github.com/srikanthdannarapu" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=srikanthdannarapu&title_color=333&text_color=777&show_icons=true" alt="Srikanth Dannarapu's GitHub Stats" >
+  </a>
+  
+<br><br>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/srikanthdannarapu/srikanthdannarapu?style=flat-square&color=blue&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/srikanthdannarapu?style=flat-square&color=blue&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/repos/srikanthdannarapu?style=flat-square&color=blue&logo=github">
+  </a>
+
