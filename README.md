@@ -24,7 +24,8 @@ I am Senior Java Developer over 9 years of experience in developing efficient, s
 * JPA, Hibernate
 * Predix Cloud and Cloud Foundry 
 * Angular 8
-* Amazon Web Services EC2, S3 , Amazon RDS
+* Docker and Kubernetes
+* Amazon Web Services EC2, S3 , Amazon RDS, DynamoDB, SQS, SNS, AWS Lambda and Elastic Beanstalk
 * Agile methodology development. Certified Safe 4.5 Agile Practitioner
 * Maven, VSS, SVN and Git Hub.
 
