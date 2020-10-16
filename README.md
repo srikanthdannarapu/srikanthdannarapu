@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-I am Senior Java Developer over 9 years of experience in developing efficient, scalable, web-based, SOAP, RESTful, Spring boot, Spring Cloud, microservice applications in health care and finance domains
+I am Senior Java Developer with 9 years of experience in developing efficient, scalable, web-based, SOAP, RESTful, Spring boot, Spring Cloud, microservice applications in health care and finance domains
 
 ## Expertise:
 * Java 8, Spring boot, microservices
