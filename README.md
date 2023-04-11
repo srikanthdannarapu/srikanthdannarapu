@@ -1,6 +1,10 @@
-SELECT
-  100 * SUM(CASE WHEN REGEXP_LIKE(SUBSTR(BANKNET_REF_NUM, 1, 3), '^[A-Z]{3}$')
-                AND REGEXP_LIKE(SUBSTR(BANKNET_REF_NUM, 4), '^[A-Z0-9]{6}$')
-             THEN 1 ELSE 0 END) / COUNT(*) AS "Percentage"
+SELECT 
+  100 * COUNT(CASE 
+                 WHEN REGEXP_LIKE(BANKNET_REF_NUM, '^[A-Z]{3}[0-9A-Z]{6}$') THEN 1 
+                 ELSE NULL 
+               END) / COUNT(*) AS "Pattern1Percentage",
+  100 * COUNT(CASE 
+                 WHEN REGEXP_LIKE(BANKNET_REF_NUM, '^[A-Z]{3}[0-9A-Z]{6}[0-9]{4}$') THEN 1 
+                 ELSE NULL 
+               END) / COUNT(*) AS "Pattern2Percentage"
 FROM your_table;
-
