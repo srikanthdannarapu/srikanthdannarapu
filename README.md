@@ -1,8 +1,1 @@
-SELECT 
-    COUNT(*) * 100 / (SELECT COUNT(*) FROM FIN_TXN) AS percentage
-FROM 
-    FIN_TXN
-WHERE 
-    (LENGTH(APPR_CD) = 6 AND REGEXP_LIKE(APPR_CD, '^[A-Z0-9]+$'))
-    OR
-    (LENGTH(APPR_CD) = 6 AND REGEXP_LIKE(APPR_CD, '^[0-9]+$'))
+
